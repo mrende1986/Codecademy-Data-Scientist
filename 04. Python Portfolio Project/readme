@@ -1,0 +1,16 @@
+U.S. Medical Insurance Costs
+An investigation of a medical insurance costs dataset. This is a project through codecademy.
+
+We are working with a file insurance.csv which contains 7 columns:
+
+Age
+Sex
+bmi
+children
+region
+charges
+Questions
+On average, how much more do smokers pay for insurance than non-smokers?
+On average, how much do charges increase for every additional child?
+On average, which sex pays more - overall and by age group?
+What is the most influential factor in insurance costs?
